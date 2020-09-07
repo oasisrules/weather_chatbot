@@ -1,7 +1,7 @@
 # weather_chatbot
 ### A weather chatbot created by Python3.6
 
-※This weather bot runs on Potato.  
+※This weather bot runs on Potato Chat.  
 ※'potato_demo_2.py' is the executable file.  
 ※Make sure to install all the library these files need.  
 ※This bot works only when the executable file is running.  
